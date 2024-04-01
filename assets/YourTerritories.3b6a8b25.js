@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.12698c47.js";import{N as r,O as a,Q as t,S as o}from"./index.101a3ad5.js";import"./render.daf625b6.js";const s=o("h5",null,"Find your lands and see where you warriors are stationed",-1),d=Object.assign({},{__name:"YourTerritories",setup(n){return(i,c)=>(r(),a(e,null,{default:t(()=>[s]),_:1}))}});export{d as default};
